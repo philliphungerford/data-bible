@@ -23,7 +23,7 @@ df = pd.read_sql("SELECT * FROM your_table_name", conn)
 # Close connection when done
 conn.close()
 
-# Write
+# WRITE
 #-------------------------------------------------------------------------------
 # Create SQLAlchemy engine for pandas `.to_sql()` support
 engine = create_engine(
