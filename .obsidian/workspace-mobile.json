@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "ddf165260ae67197",
+    "type": "split",
+    "children": [
+      {
+        "id": "669f3d6c3778f194",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "102295bcda2a9dd1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebda347c43e235e8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9f0bf07fc4cf5d15",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "471b4b7cf2a910cb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "404a5be382cb9573",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "be57425b0b55a55a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9eaca556aa7d6e05",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "11de5f06bd4170f5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "0a8365767487204c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "b3c3e04d03a0f514",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "102295bcda2a9dd1",
+  "lastOpenFiles": [
+    "untitled folder",
+    "models/🤖 llama3.md",
+    "models/🤖 ChatGPT.md",
+    "models/🤖 Grok.md",
+    "models/🤖 mistral.md",
+    "models/🤖 gemma.md",
+    "models",
+    "Untitled",
+    "terms/📖 Optimizer.md",
+    "terms/📖 Data Warehouse.md",
+    "terms/📖 Overfitting.md",
+    "terms/📖 Parameters.md",
+    "terms/📖 Learning CurvesRates.md",
+    "terms/📖 Data Lakehouse.md",
+    "terms/📖 Obsidian Cheatsheet.md",
+    "terms/📖 Loss.md",
+    "terms/📖 Underfitting.md",
+    "terms/📖 Data Lake.md",
+    "terms/📖 Batch Size.md",
+    "terms/📖 Epoch.md",
+    "terms/📖 Hyperparameters.md",
+    "terms/📖 DSC Handbook.md",
+    "algo/➗ Neural Network.md",
+    "algo/➗ Q-Learning.md",
+    "algo/➗ Multinomial Logistic Regression.md",
+    "algo/➗ Gradient Boosting.md",
+    "algo/➗ Principal Component Analysis (PCA).md",
+    "algo/➗ Hierarchical Clustering.md",
+    "algo",
+    "terms",
+    "eval"
+  ]
+}

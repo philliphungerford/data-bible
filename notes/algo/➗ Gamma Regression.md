@@ -1,0 +1,3 @@
+#machineLearning/algorithm
+
+- # Gamma Regression
