@@ -1,0 +1,15 @@
+---
+type: Definition
+title: Data Lake
+tags:
+  - definition
+---
+
+# Data Lake
+
+A data lake is a centralized repository that ingests and stores large volumes of data in its original form. The data can then be processed and used as a basis for a variety of analytic needs. Due to its open, scalable architecture, a data lake can accommodate all types of data from any source, from structured (database tables, Excel sheets) to semi-structured (XML files, webpages) to unstructured (images, audio files, tweets), all without sacrificing fidelity. The data files are typically stored in staged zones—raw, cleansed, and curated—so that different types of users may use the data in its various forms to meet their needs. Data lakes provide core data consistency across a variety of applications, powering [big data analytics](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-big-data-analytics/), [machine learning](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-machine-learning-platform/), predictive analytics, and other forms of intelligent action.
+
+
+
+A data lake captures both relational and non-relational data from a variety of sources—business applications, mobile apps, IoT devices, social media, or streaming—without having to define the structure or schema of the data until it is read. Schema-on-read ensures that any type of data can be stored in its raw form. As a result, data lakes can hold a wide variety of data types, from structured to semi-structured to unstructured, at any scale. Their flexible and scalable nature make them essential for performing complex forms of data analysis using different types of compute processing tools like [Apache Spark](https://go.microsoft.com/fwlink/?linkid=2240158) or [Azure Machine Learning](https://azure.microsoft.com/en-us/products/machine-learning/).
+

@@ -1,3 +1,0 @@
-#definition
-
-- # Batch Size

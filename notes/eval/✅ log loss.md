@@ -1,3 +1,0 @@
-#machineLearning/evaluation
-
-- # log loss
