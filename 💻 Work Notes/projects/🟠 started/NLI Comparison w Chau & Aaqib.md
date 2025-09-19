@@ -1,0 +1,4 @@
+- About -
+- TODO read documents from chau #next
+- TODO find evaluation metrics
+- TODO update application + algorithm for the task

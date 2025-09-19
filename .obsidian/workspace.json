@@ -8,13 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05aefa35cdbbd6d9",
+            "id": "a5c09f0077481ee4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "📝 Journal/2025-09-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-19"
             }
           }
         ]
@@ -74,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 307.5
   },
   "right": {
     "id": "0114e6dd42323553",
@@ -153,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -161,43 +176,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05aefa35cdbbd6d9",
+  "active": "a5c09f0077481ee4",
   "lastOpenFiles": [
-    "_index_.md",
-    "⌨️ Code Samples/Importing Data.md",
-    "⌨️ Code Samples/Plots.md",
-    "🕵️‍♂️ Problem Types/🕵️‍♂️ Anomaly Detection (Outlier Detection).md",
-    "✅ Evaluation Metrics/✅ true positives.md",
-    "✅ Evaluation Metrics/✅ false negative rate.md",
-    "✅ Evaluation Metrics/✅ false negatives.md",
-    "✅ Evaluation Metrics/✅ false positive rate.md",
-    "✅ Evaluation Metrics/✅ log loss.md",
-    "✅ Evaluation Metrics/✅ recall sensitivity  true positive rate.md",
-    "✅ Evaluation Metrics/✅ true negatives.md",
-    "✅ Evaluation Metrics/✅ precision  positive predictive value.md",
-    "✅ Evaluation Metrics/✅ specificity  true negative rate.md",
-    "✅ Evaluation Metrics/✅ false positives.md",
-    "✅ Evaluation Metrics/✅ balanced accuracy.md",
-    "✅ Evaluation Metrics/✅ confusion matrix.md",
-    "✅ Evaluation Metrics/✅ f1-score.md",
-    "✅ Evaluation Metrics/✅ adjusted R-squared.md",
-    "✅ Evaluation Metrics/✅ accuracy.md",
-    "✅ Evaluation Metrics/✅ R² (R-squared).md",
-    "✅ Evaluation Metrics/✅ Root Mean Squared Error (RMSE).md",
-    "✅ Evaluation Metrics/✅ R-squared (R²).md",
-    "✅ Evaluation Metrics/✅ PR-AUC (precision-recall AUC).md",
-    "✅ Evaluation Metrics/✅ Mean Absolute Percentage Error (MAPE).md",
-    "✅ Evaluation Metrics/✅ Mean Absolute Error (MAE).md",
-    "✅ Evaluation Metrics/✅ Mean Squared Error (MSE).md",
-    "✅ Evaluation Metrics",
-    "🍀 Concepts",
-    "🤖 Models",
-    "📖 Definitions",
-    "⌨️ Code Samples",
-    "💿 Datasets",
-    "👨‍🔧 Pipelines",
-    "🕵️‍♂️ Problem Types",
-    "➗ Algorithms",
-    "📄 Papers"
+    "📝 Journal/_log.md",
+    "_index.md",
+    "📖 DSC Handbook/⌨️ Code Samples/SQL/sql-find-column.md",
+    "💻 Work Notes/_index/🔗 LINKS.md",
+    "📝 Journal/2025-09-19.md",
+    "💻 Work Notes/projects/🟠 started/NLI Comparison w Chau & Aaqib.md",
+    "💻 Work Notes/projects/🟠 started/NLI - First Author Paper.md",
+    "💻 Work Notes/database/epath___db___NSWCREPathStaging.md",
+    "💻 Work Notes/database/epath___db___EPI_SKIN_MELIGNANCY_REPO.md",
+    "💻 Work Notes/database/dataset-mld.md",
+    "💻 Work Notes/database/dataset-epath.md",
+    "💻 Work Notes/database/database-permissions.md",
+    "📝 Journal/2025-09-18.md",
+    "MAP.canvas",
+    "Projects.md",
+    "_root_.md",
+    "📐 Templates/Template Daily.md",
+    "📐 Templates",
+    "📖 DSC Handbook/✅ Evaluation Metrics/✅ f1-bertscore.md",
+    "📖 DSC Handbook/✅ Evaluation Metrics/✅ true positives.md",
+    "💽 Backend/📖 DSC Handbook/✅ Evaluation Metrics/sdf.md",
+    "💻 Work Notes/projects/🟠 started/NLI Model - PIPA.md",
+    "💻 Work Notes/projects/🟠 started/NLI Variables - Peter & Amy.md",
+    "💻 Work Notes/sara tickets/ci-sara-create-db.md",
+    "💽 Backend",
+    "🖥️ Front End",
+    "📖 DSC Handbook/🕵️‍♂️ Problem Types/🕵️‍♂️ Anomaly Detection (Outlier Detection).md",
+    "📝 Journal/2025-06-11.md",
+    "💻 Work Notes/projects/🔄️ ongoing/epath_lung_monitor.md",
+    "💻 Work Notes/projects/🟢 closed/epath_lung_monitor___v151.md",
+    "💽 Backend/📖 DSC Handbook/_index",
+    "💻 Work Notes/_index",
+    "💻 Work Notes/projects/🔄️ ongoing",
+    "💻 Work Notes/projects/🔴 not started",
+    "💻 Work Notes/projects/🟠 started",
+    "💻 Work Notes/projects/🟢 closed",
+    "💻 Work Notes/database"
   ]
 }
